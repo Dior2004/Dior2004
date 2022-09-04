@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dior2004
-- 👀 I’m interested in learning JavaScript in detail
+- 👀 I’m interested in learning JavaScript + React js
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on as many real projects as possible
 - 📫 How to reach me kupaysinovdiyorbek@.gmail.com
